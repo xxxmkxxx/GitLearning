@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("check changes");
+        System.out.println("learning: git diff | --staged |");
     }
 }
 
